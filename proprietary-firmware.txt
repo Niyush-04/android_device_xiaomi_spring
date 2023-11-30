@@ -1,0 +1,19 @@
+# Unpinned firmware from spring-user 15 AQ3A.250226.002 OS2.0.209.0.VOUMIXM release-keys
+
+abl.img;AB
+bluetooth.img;AB
+countrycode.img;AB
+devcfg.img;AB
+dsp.img;AB
+featenabler.img;AB
+hyp.img;AB
+imagefv.img;AB
+keymaster.img;AB
+modem.img;AB
+pvmfw.img;AB
+qupfw.img;AB
+rpm.img;AB
+tz.img;AB
+uefisecapp.img;AB
+xbl.img;AB
+xbl_config.img;AB
