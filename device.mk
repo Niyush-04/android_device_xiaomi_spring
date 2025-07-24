@@ -98,6 +98,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.recovery.qcom.rc
 
+# IPACM
+PRODUCT_PACKAGES += \
+    ipacm \
+    IPACM_cfg.xml \
+    IPACM_Filter_cfg.xml
+
 # IR
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.consumerir.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.consumerir.xml
